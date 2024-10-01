@@ -1,0 +1,2 @@
+# kadokawa_tongli_Pre_sale_content_api
+python爬取台湾角川和东立预售新书内容
